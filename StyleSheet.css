@@ -1,0 +1,19 @@
+@charset "utf-8";
+body {
+	background-color: aqua;
+	margin: 35px;
+}
+.header {
+	color: #03105C;
+	margin: 50px;
+    Position: fixed;
+	top: -45px;
+	right: 400px;
+		
+}
+.feat {
+	color: antiquewhite;
+}
+.important {
+	background-color: yellow;
+}
